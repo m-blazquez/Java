@@ -14,7 +14,7 @@ Como primera aproximación al lenguaje estoy siguiendo el [curso actualizado (20
 
 ### Estructuras básicas
 
-4. [Estructuras principales](https://www.youtube.com/watch?v=w2RMHSNZe-k&list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk&index=5&ab_channel=pildorasinformaticas)
+4. [Estructuras principales](https://www.youtube.com/watch?v=w2RMHSNZe-k&list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk&index=5&ab_channel=pildorasinformaticas) ✔️​ 23/03/2025
 5. [Estructuras principales II. Inferencia de tipos.](https://www.youtube.com/watch?v=ZJEHc8oQw_0&list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk&index=6&ab_channel=pildorasinformaticas)
 6. [Estructuras principales III](https://www.youtube.com/watch?v=DY1GbOM7rqs&list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk&index=7&ab_channel=pildorasinformaticas)
 7. [Operadores en Java](https://www.youtube.com/watch?v=0SG9exLJub8&list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk&index=8&ab_channel=pildorasinformaticas)
