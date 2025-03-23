@@ -1,6 +1,8 @@
 # Java ☕​
 
-He creado este repositorio para aprender Java y para documentar todo el proceso. A medida que avance iré agregando notas, ejemplos y ejercicios. Como primera aproximación al lenguaje estoy siguiendo el [curso actualizado](https://www.youtube.com/playlist?list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk) de **Píldoras Informáticas** en youtube.
+He creado este repositorio para aprender Java y para documentar todo el proceso. A medida que avance iré agregando notas, ejemplos y ejercicios. 
+
+Como primera aproximación al lenguaje estoy siguiendo el [curso actualizado (2025)](https://www.youtube.com/playlist?list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk) de **Píldoras Informáticas** en youtube.
 
 ## Curso de Java 2025 desde 0 (Píldoras Informáticas)
 
@@ -8,7 +10,7 @@ He creado este repositorio para aprender Java y para documentar todo el proceso.
 
 1. [Introducción](https://www.youtube.com/watch?v=_WJkT42l7Wk&list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk&index=2&ab_channel=pildorasinformaticas) ✔️​ 22/03/2025  
 2. [Historia de Java, características y falsos mitos](https://www.youtube.com/watch?v=wWCdvXN4qAQ&list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk&index=3&ab_channel=pildorasinformaticas) ✔️​ 23/03/2025
-3. [Instalación Java + Eclipse](https://www.youtube.com/watch?v=Z5l1RmsP2gU&list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk&index=4&ab_channel=pildorasinformaticas)
+3. [Instalación Java + Eclipse](https://www.youtube.com/watch?v=Z5l1RmsP2gU&list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk&index=4&ab_channel=pildorasinformaticas) ✔️​ 23/03/2025
 
 ### Estructuras básicas
 
