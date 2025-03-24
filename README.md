@@ -18,7 +18,7 @@ Como primera aproximación al lenguaje estoy siguiendo el [curso actualizado (20
 5. [Estructuras principales II. Inferencia de tipos.](https://www.youtube.com/watch?v=ZJEHc8oQw_0&list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk&index=6&ab_channel=pildorasinformaticas) ✔️​ 23/03/2025
 6. [Estructuras principales III](https://www.youtube.com/watch?v=DY1GbOM7rqs&list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk&index=7&ab_channel=pildorasinformaticas) ✔️​ 23/03/2025
 7. [Operadores en Java](https://www.youtube.com/watch?v=0SG9exLJub8&list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk&index=8&ab_channel=pildorasinformaticas) ✔️​ 24/03/2025
-8. [Declaración múltiple y constantes](https://www.youtube.com/watch?v=5vWUjGbUslE&list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk&index=9&ab_channel=pildorasinformaticas)
+8. [Declaración múltiple y constantes](https://www.youtube.com/watch?v=5vWUjGbUslE&list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk&index=9&ab_channel=pildorasinformaticas) ✔️​ 24/03/2025
 9. [Clase Math y API](https://www.youtube.com/watch?v=BwZexhLgcfA&list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk&index=10&ab_channel=pildorasinformaticas)
 10. [Clase Math, Casting y API](https://www.youtube.com/watch?v=hkyyaEq84Qg&list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk&index=11&ab_channel=pildorasinformaticas)
 11. [Clases Math, BigInteger y métodos comunes en Math](https://www.youtube.com/watch?v=uerM1mbU_FM&list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk&index=12&ab_channel=pildorasinformaticas)

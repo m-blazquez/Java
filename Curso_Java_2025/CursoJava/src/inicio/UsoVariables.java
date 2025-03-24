@@ -1,3 +1,4 @@
+package inicio;
 
 public class UsoVariables {
 
@@ -28,6 +29,12 @@ public class UsoVariables {
 		 * varias
 		 * lineas
 		 */
+		
+		int operador1, operador2, resultado; // Declaracion multiple de variables
+		
+		int numero1 = 1, numero2 = 2, suma = numero1 + numero2; // En una declaracion multiple tambien se pueden inicializar las variables
+		
+		System.out.println(suma);
 
 	}
 
