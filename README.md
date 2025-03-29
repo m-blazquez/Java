@@ -5,7 +5,7 @@ He creado este repositorio para aprender Java y para documentar todo el proceso.
 Como primera aproximación al lenguaje estoy siguiendo el [curso de Java desde 0](https://www.youtube.com/playlist?list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk) de **Píldoras Informáticas** en youtube, complementándolo con ejercicios de diversas fuentes:
 
 - El libro [Ejercicios de programación en Java: Condicionales, bucles, tablas y funciones](https://www.studocu.com/es-mx/document/instituto-en-computacion-elecentronica-e-informatica-de-tamaulipas/tecnologias-de-la-informacion-y-la-comunicacion/ejercicios-en-java-libro-java/91278768), de F.M. Pérez Montes.
-- La web [Retos de Programación](https://retosdeprogramacion.com/) de moredev.
+- La web [Retos de Programación](https://retosdeprogramacion.com/) de MoureDev.
 
 Más adelante mi intención es pasar a los cursos de [Spring](https://www.youtube.com/playlist?list=PLU8oAlHdN5Blq85GIxtKjIXdfHPksV_Hm) y [Spring Boot](https://www.youtube.com/playlist?list=PLU8oAlHdN5BnVCDXq-B2j3-9QXE8LpSxI), también de **Píldoras Informáticas**.
 
@@ -30,7 +30,7 @@ Más adelante mi intención es pasar a los cursos de [Spring](https://www.youtub
 8. [Declaración múltiple y constantes](https://www.youtube.com/watch?v=5vWUjGbUslE&list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk&index=9&ab_channel=pildorasinformaticas) ✔️​ 24/03/2025
 9. [Clase Math y API](https://www.youtube.com/watch?v=BwZexhLgcfA&list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk&index=10&ab_channel=pildorasinformaticas) ✔️​ 28/03/2025
 10. [Clase Math, Casting y API](https://www.youtube.com/watch?v=hkyyaEq84Qg&list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk&index=11&ab_channel=pildorasinformaticas) ✔️​ 29/03/2025
-11. [Clases Math, BigInteger y métodos comunes en Math](https://www.youtube.com/watch?v=uerM1mbU_FM&list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk&index=12&ab_channel=pildorasinformaticas)
+11. [Clases Math, BigInteger y métodos comunes en Math](https://www.youtube.com/watch?v=uerM1mbU_FM&list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk&index=12&ab_channel=pildorasinformaticas) ✔️​ 29/03/2025
 12. [Clase String. Manipulación de cadenas](https://www.youtube.com/watch?v=oJpcnvYEWbc&list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk&index=13&ab_channel=pildorasinformaticas)
 13. [Profundizando en la API](https://www.youtube.com/watch?v=kv0dR_-u_78&list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk&index=14&ab_channel=pildorasinformaticas)
 14. [Entrada y salida de datos I. Clase Scanner](https://www.youtube.com/watch?v=GFRkQm6JzJQ&list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk&index=15&ab_channel=pildorasinformaticas)
