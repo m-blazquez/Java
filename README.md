@@ -199,7 +199,6 @@ Más adelante mi intención es pasar a los cursos de [Spring](https://www.youtub
 <details>
   <summary>Applets (contenido obsoleto)</summary>
   
-Del 132 al 136. Borrar esto, ya no se usa
 132. [Despliegue Aplicaciones. Applets I (versión original)](https://www.youtube.com/watch?v=4oXBNwZuCg4&list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk&index=133&ab_channel=pildorasinformaticas)
 133. [Despliegue Aplicaciones. Applets II (versión original)](https://www.youtube.com/watch?v=O5G1WjMriQA&list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk&index=134&ab_channel=pildorasinformaticas)
 134. [Despliegue Aplicaciones. Applets III. Ventanas emergentes (versión original)](https://www.youtube.com/watch?v=aXkjL9YXAaw&list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk&index=135&ab_channel=pildorasinformaticas)
