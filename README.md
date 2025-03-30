@@ -9,7 +9,9 @@ Como primera aproximación al lenguaje estoy siguiendo el [curso de Java desde 0
 
 Más adelante mi intención es pasar a los cursos de [Spring](https://www.youtube.com/playlist?list=PLU8oAlHdN5Blq85GIxtKjIXdfHPksV_Hm) y [Spring Boot](https://www.youtube.com/playlist?list=PLU8oAlHdN5BnVCDXq-B2j3-9QXE8LpSxI), también de **Píldoras Informáticas**.
 
-## Curso de Java desde 0 (Píldoras Informáticas)
+
+<details>
+  <summary><h2>Curso de Java desde 0 (Píldoras Informáticas)</h2></summary>
 
 <details>
   <summary>Introducción</summary>
@@ -479,9 +481,11 @@ Más adelante mi intención es pasar a los cursos de [Spring](https://www.youtub
 276. [Generar documentación (versión original)](https://www.youtube.com/watch?v=hbmu-FH-BJY&list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk&index=278&ab_channel=pildorasinformaticas)
 
 </details>
+</details>
 
 
-## Curso Spring (Píldoras Informáticas)
+<details>
+  <summary><h2>Curso Spring (Píldoras Informáticas)</h2></summary>
 
 <details>
   <summary>Introducción e instalación</summary>
@@ -684,8 +688,10 @@ Más adelante mi intención es pasar a los cursos de [Spring](https://www.youtub
 118. [REST XI. Captura de excepciones II](https://www.youtube.com/watch?v=5cKXsySF4-s&list=PLU8oAlHdN5Blq85GIxtKjIXdfHPksV_Hm&index=118&ab_channel=pildorasinformaticas)
 
 </details>
+</details>
 
-## Curso Spring Boot (Píldoras Informáticas)
+<details>
+  <summary><h2>Curso Spring Boot (Píldoras Informáticas)</h2></summary>
 
 <details>
   <summary>Introducción</summary>
@@ -718,4 +724,5 @@ Más adelante mi intención es pasar a los cursos de [Spring](https://www.youtub
 14. [Propiedades más utilizadas](https://www.youtube.com/watch?v=lcm09svYGcM&list=PLU8oAlHdN5BnVCDXq-B2j3-9QXE8LpSxI&index=14&ab_channel=pildorasinformaticas)
 15. [Concluyendo](https://www.youtube.com/watch?v=A8y2QEXqAvM&list=PLU8oAlHdN5BnVCDXq-B2j3-9QXE8LpSxI&index=15&ab_channel=pildorasinformaticas)
 
+</details>
 </details>
