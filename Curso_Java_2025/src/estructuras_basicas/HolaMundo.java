@@ -1,4 +1,4 @@
-package inicio;
+package estructuras_basicas;
 
 public class HolaMundo {
 

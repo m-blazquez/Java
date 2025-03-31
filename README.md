@@ -9,9 +9,9 @@ Como primera aproximación al lenguaje estoy siguiendo el [curso de Java desde 0
 
 Más adelante mi intención es pasar a los cursos de [Spring](https://www.youtube.com/playlist?list=PLU8oAlHdN5Blq85GIxtKjIXdfHPksV_Hm) y [Spring Boot](https://www.youtube.com/playlist?list=PLU8oAlHdN5BnVCDXq-B2j3-9QXE8LpSxI), también de **Píldoras Informáticas**.
 
-
+## Cursos:
 <details>
-  <summary><h2>Curso de Java desde 0 (Píldoras Informáticas)</h2></summary>
+  <summary>Curso de Java desde 0 (Píldoras Informáticas)</summary>
 
 <details>
   <summary>Introducción</summary>
@@ -33,7 +33,7 @@ Más adelante mi intención es pasar a los cursos de [Spring](https://www.youtub
 9. [Clase Math y API](https://www.youtube.com/watch?v=BwZexhLgcfA&list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk&index=10&ab_channel=pildorasinformaticas) ✔️​ 28/03/2025
 10. [Clase Math, Casting y API](https://www.youtube.com/watch?v=hkyyaEq84Qg&list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk&index=11&ab_channel=pildorasinformaticas) ✔️​ 29/03/2025
 11. [Clases Math, BigInteger y métodos comunes en Math](https://www.youtube.com/watch?v=uerM1mbU_FM&list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk&index=12&ab_channel=pildorasinformaticas) ✔️​ 29/03/2025
-12. [Clase String. Manipulación de cadenas](https://www.youtube.com/watch?v=oJpcnvYEWbc&list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk&index=13&ab_channel=pildorasinformaticas)
+12. [Clase String. Manipulación de cadenas](https://www.youtube.com/watch?v=oJpcnvYEWbc&list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk&index=13&ab_channel=pildorasinformaticas) ✔️​ 31/03/2025
 13. [Profundizando en la API](https://www.youtube.com/watch?v=kv0dR_-u_78&list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk&index=14&ab_channel=pildorasinformaticas)
 14. [Entrada y salida de datos I. Clase Scanner](https://www.youtube.com/watch?v=GFRkQm6JzJQ&list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk&index=15&ab_channel=pildorasinformaticas)
 15. [Entrada y salida de datos II. Clase JOptionPane](https://www.youtube.com/watch?v=Okr4kMCcBAc&list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk&index=16&ab_channel=pildorasinformaticas)
@@ -485,7 +485,7 @@ Más adelante mi intención es pasar a los cursos de [Spring](https://www.youtub
 
 
 <details>
-  <summary><h2>Curso Spring (Píldoras Informáticas)</h2></summary>
+  <summary>Curso Spring (Píldoras Informáticas)</summary>
 
 <details>
   <summary>Introducción e instalación</summary>
@@ -691,7 +691,7 @@ Más adelante mi intención es pasar a los cursos de [Spring](https://www.youtub
 </details>
 
 <details>
-  <summary><h2>Curso Spring Boot (Píldoras Informáticas)</h2></summary>
+  <summary>Curso Spring Boot (Píldoras Informáticas)</summary>
 
 <details>
   <summary>Introducción</summary>
