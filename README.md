@@ -11,10 +11,10 @@ Más adelante mi intención es pasar a los cursos de [Spring](https://www.youtub
 
 ## Cursos:
 <details>
-  <summary>CURSO DE JAVA DESDE 0 (Píldoras Informáticas)</summary>
+  <summary><b>CURSO DE JAVA DESDE 0 (Píldoras Informáticas)</b></summary>
 
 <details>
-  <summary>Introducción</summary>
+  <summary>Introducción ✔️</summary>
   
 1. [Introducción](https://www.youtube.com/watch?v=_WJkT42l7Wk&list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk&index=2&ab_channel=pildorasinformaticas) ✔️​ 22/03/2025  
 2. [Historia de Java, características y falsos mitos](https://www.youtube.com/watch?v=wWCdvXN4qAQ&list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk&index=3&ab_channel=pildorasinformaticas) ✔️​ 23/03/2025
@@ -37,7 +37,7 @@ Más adelante mi intención es pasar a los cursos de [Spring](https://www.youtub
 13. [Profundizando en la API](https://www.youtube.com/watch?v=kv0dR_-u_78&list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk&index=14&ab_channel=pildorasinformaticas) ✔️​ 31/03/2025
 14. [Entrada y salida de datos I. Clase Scanner](https://www.youtube.com/watch?v=GFRkQm6JzJQ&list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk&index=15&ab_channel=pildorasinformaticas) ✔️​ 01/04/2025
 15. [Entrada y salida de datos II. Clase JOptionPane](https://www.youtube.com/watch?v=Okr4kMCcBAc&list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk&index=16&ab_channel=pildorasinformaticas) ✔️​ 01/04/2025
-16. [Condicionales I. Condicional IF](https://www.youtube.com/watch?v=d7Erga4LQ_w&list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk&index=17&ab_channel=pildorasinformaticas)
+16. [Condicionales I. Condicional IF](https://www.youtube.com/watch?v=d7Erga4LQ_w&list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk&index=17&ab_channel=pildorasinformaticas) ✔️​ 01/04/2025
 17. [Condicionales II. Ternario y Switch](https://www.youtube.com/watch?v=h7fR7130xeI&list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk&index=18&ab_channel=pildorasinformaticas)
 18. [Bucles I. Bucle while](https://www.youtube.com/watch?v=OiUVhnuk25U&list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk&index=20&ab_channel=pildorasinformaticas)
 19. [Bucles II (versión original)](https://www.youtube.com/watch?v=TMIoxn4nMtA&list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk&index=20&ab_channel=pildorasinformaticas)
@@ -485,7 +485,7 @@ Más adelante mi intención es pasar a los cursos de [Spring](https://www.youtub
 
 
 <details>
-  <summary>CURSO SPRING (Píldoras Informáticas)</summary>
+  <summary><b>CURSO SPRING (Píldoras Informáticas)</b></summary>
 
 <details>
   <summary>Introducción e instalación</summary>
@@ -691,7 +691,7 @@ Más adelante mi intención es pasar a los cursos de [Spring](https://www.youtub
 </details>
 
 <details>
-  <summary>CURSO SPRING BOOT (Píldoras Informáticas)</summary>
+  <summary><b>CURSO SPRING BOOT (Píldoras Informáticas)</b></summary>
 
 <details>
   <summary>Introducción</summary>
