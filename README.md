@@ -35,11 +35,11 @@ Más adelante mi intención es pasar a los cursos de [Spring](https://www.youtub
 11. [Clases Math, BigInteger y métodos comunes en Math](https://www.youtube.com/watch?v=uerM1mbU_FM&list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk&index=12&ab_channel=pildorasinformaticas) ✔️​ 29/03/2025
 12. [Clase String. Manipulación de cadenas](https://www.youtube.com/watch?v=oJpcnvYEWbc&list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk&index=13&ab_channel=pildorasinformaticas) ✔️​ 31/03/2025
 13. [Profundizando en la API](https://www.youtube.com/watch?v=kv0dR_-u_78&list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk&index=14&ab_channel=pildorasinformaticas) ✔️​ 31/03/2025
-14. [Entrada y salida de datos I. Clase Scanner](https://www.youtube.com/watch?v=GFRkQm6JzJQ&list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk&index=15&ab_channel=pildorasinformaticas)
+14. [Entrada y salida de datos I. Clase Scanner](https://www.youtube.com/watch?v=GFRkQm6JzJQ&list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk&index=15&ab_channel=pildorasinformaticas) ✔️​ 01/04/2025
 15. [Entrada y salida de datos II. Clase JOptionPane](https://www.youtube.com/watch?v=Okr4kMCcBAc&list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk&index=16&ab_channel=pildorasinformaticas)
 16. [Condicionales I. Condicional IF](https://www.youtube.com/watch?v=d7Erga4LQ_w&list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk&index=17&ab_channel=pildorasinformaticas)
 17. [Condicionales II. Ternario y Switch](https://www.youtube.com/watch?v=h7fR7130xeI&list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk&index=18&ab_channel=pildorasinformaticas)
-18. [Bucles I (versión original)](https://www.youtube.com/watch?v=HQz8xwAjCsI&list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk&index=20&ab_channel=pildorasinformaticas)
+18. [Bucles I. Bucle while](https://www.youtube.com/watch?v=OiUVhnuk25U&list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk&index=20&ab_channel=pildorasinformaticas)
 19. [Bucles II (versión original)](https://www.youtube.com/watch?v=TMIoxn4nMtA&list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk&index=20&ab_channel=pildorasinformaticas)
 20. [Bucles III (versión original)](https://www.youtube.com/watch?v=gzJn5MTSL5U&list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk&index=21&ab_channel=pildorasinformaticas)
 21. [Bucles IV (versión original)](https://www.youtube.com/watch?v=EUCmFmtX26I&list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk&index=22&ab_channel=pildorasinformaticas)
