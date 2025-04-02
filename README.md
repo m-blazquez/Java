@@ -43,7 +43,7 @@ Más adelante mi intención es pasar a los cursos de [Spring](https://www.youtub
 19. [Bucles II (versión original)](https://www.youtube.com/watch?v=TMIoxn4nMtA&list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk&index=20&ab_channel=pildorasinformaticas) ✔️​ 02/04/2025
 20. [Bucles III (versión original)](https://www.youtube.com/watch?v=gzJn5MTSL5U&list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk&index=21&ab_channel=pildorasinformaticas) ✔️​ 02/04/2025
 21. [Bucles IV (versión original)](https://www.youtube.com/watch?v=EUCmFmtX26I&list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk&index=22&ab_channel=pildorasinformaticas) ✔️​ 02/04/2025
-22. [Bucles V (versión original)](https://www.youtube.com/watch?v=V1Wgi_FsehM&list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk&index=23&ab_channel=pildorasinformaticas)
+22. [Bucles V (versión original)](https://www.youtube.com/watch?v=V1Wgi_FsehM&list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk&index=23&ab_channel=pildorasinformaticas) ✔️​ 02/04/2025
 23. [Arrays I (versión original)](https://www.youtube.com/watch?v=UID_EKKfpcE&list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk&index=24&ab_channel=pildorasinformaticas)
 24. [Arrays II (versión original)](https://www.youtube.com/watch?v=NwztwM_xGgU&list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk&index=25&ab_channel=pildorasinformaticas)
 25. [Arrays III. Arrays bidimensionales (versión original)](https://www.youtube.com/watch?v=_tUncS0AsNE&list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk&index=26&ab_channel=pildorasinformaticas)
