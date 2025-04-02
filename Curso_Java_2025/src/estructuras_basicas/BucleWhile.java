@@ -13,14 +13,16 @@ public class BucleWhile {
 		// Inicializar variable para almacenr la contraseña que introduzca el usuario 
 		String password = "";
 		
+		// Abrir un scanner
+		Scanner entrada = new Scanner(System.in);
+		
 		
 		// Pedir contraseña dentro de un bucle while, para que siga preguntando hasta que se acierte
 		
 		while (clave.equals(password) == false) {
 			
 			// Pedir al usuarioque introduzca la contraseña
-			Scanner entrada = new Scanner(System.in);
-			
+						
 			System.out.println("Introduce la contraseña:");
 			
 			password = entrada.nextLine();
