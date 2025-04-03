@@ -40,11 +40,11 @@ Más adelante mi intención es pasar a los cursos de [Spring](https://www.youtub
 16. [Condicionales I. Condicional IF](https://www.youtube.com/watch?v=d7Erga4LQ_w&list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk&index=17&ab_channel=pildorasinformaticas) ✔️​ 01/04/2025
 17. [Condicionales II. Ternario y Switch](https://www.youtube.com/watch?v=h7fR7130xeI&list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk&index=18&ab_channel=pildorasinformaticas) ✔️​ 01/04/2025
 18. [Bucles I. Bucle while](https://www.youtube.com/watch?v=OiUVhnuk25U&list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk&index=20&ab_channel=pildorasinformaticas) ✔️​ 02/04/2025
-19. [Bucles II (versión original)](https://www.youtube.com/watch?v=TMIoxn4nMtA&list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk&index=20&ab_channel=pildorasinformaticas) ✔️​ 02/04/2025
+19. [Bucles II. Ejercicio recopilatorio](https://www.youtube.com/watch?v=P6i54QAODIQ&ab_channel=pildorasinformaticas) ✔️​ 02/04/2025
 20. [Bucles III (versión original)](https://www.youtube.com/watch?v=gzJn5MTSL5U&list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk&index=21&ab_channel=pildorasinformaticas) ✔️​ 02/04/2025
 21. [Bucles IV (versión original)](https://www.youtube.com/watch?v=EUCmFmtX26I&list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk&index=22&ab_channel=pildorasinformaticas) ✔️​ 02/04/2025
 22. [Bucles V (versión original)](https://www.youtube.com/watch?v=V1Wgi_FsehM&list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk&index=23&ab_channel=pildorasinformaticas) ✔️​ 02/04/2025
-23. [Arrays I (versión original)](https://www.youtube.com/watch?v=UID_EKKfpcE&list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk&index=24&ab_channel=pildorasinformaticas)
+23. [Arrays I (versión original)](https://www.youtube.com/watch?v=UID_EKKfpcE&list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk&index=24&ab_channel=pildorasinformaticas)✔️​ 03/04/2025
 24. [Arrays II (versión original)](https://www.youtube.com/watch?v=NwztwM_xGgU&list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk&index=25&ab_channel=pildorasinformaticas)
 25. [Arrays III. Arrays bidimensionales (versión original)](https://www.youtube.com/watch?v=_tUncS0AsNE&list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk&index=26&ab_channel=pildorasinformaticas)
 26. [Arrays IV. Arrays bidimensionales II (versión original)](https://www.youtube.com/watch?v=xEHkuRApCno&list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk&index=27&ab_channel=pildorasinformaticas)
