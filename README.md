@@ -47,7 +47,7 @@ Más adelante mi intención es pasar a los cursos de [Spring](https://www.youtub
 23. [Arrays I (versión original)](https://www.youtube.com/watch?v=UID_EKKfpcE&list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk&index=24&ab_channel=pildorasinformaticas) ✔️​ 03/04/2025
 24. [Arrays II (versión original)](https://www.youtube.com/watch?v=NwztwM_xGgU&list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk&index=25&ab_channel=pildorasinformaticas) ✔️​ 03/04/2025
 25. [Arrays III. Arrays bidimensionales (versión original)](https://www.youtube.com/watch?v=_tUncS0AsNE&list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk&index=26&ab_channel=pildorasinformaticas) ✔️​ 03/04/2025
-26. [Arrays IV. Arrays bidimensionales II (versión original)](https://www.youtube.com/watch?v=xEHkuRApCno&list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk&index=27&ab_channel=pildorasinformaticas)
+26. [Arrays IV. Arrays bidimensionales II (versión original)](https://www.youtube.com/watch?v=xEHkuRApCno&list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk&index=27&ab_channel=pildorasinformaticas) ✔️​ 03/04/2025
 
 </details>
 
