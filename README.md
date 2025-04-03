@@ -4,7 +4,7 @@ He creado este repositorio para aprender Java y para documentar todo el proceso.
 
 Como primera aproximación al lenguaje estoy siguiendo el [curso de Java desde 0](https://www.youtube.com/playlist?list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk) de **Píldoras Informáticas** en youtube, complementándolo con ejercicios de diversas fuentes:
 
-- El libro [Ejercicios de programación en Java: Condicionales, bucles, tablas y funciones](https://www.studocu.com/es-mx/document/instituto-en-computacion-elecentronica-e-informatica-de-tamaulipas/tecnologias-de-la-informacion-y-la-comunicacion/ejercicios-en-java-libro-java/91278768), de F.M. Pérez Montes.
+- El libro [Ejercicios de programación en Java: Condicionales, bucles, tablas y funciones](https://d1wqtxts1xzle7.cloudfront.net/47674895/tmp_2074-java1469326973-libre.pdf?1469991769=&response-content-disposition=inline%3B+filename%3DEjercicios_de_Programacion_en_Java.pdf&Expires=1743718380&Signature=LJgwfOCR0sNlSc7rGZoyg3EwPnBFHeFX8pBPjKuZt0vJGcvVrkYxcwTccNjamFNR8pQ0SZ4dV8RYtqUcair8OQtejsDzvf3eQYyhDCL8us2i1kf~XoCVQS3RGL8vUn4SQZZgnmSGrqapKgEYPfKq1wQAH3wxmEgfuuasZH4FonKwRExfj3Vfb79gtvwTaIzoy4DQeLSS13gNkl1zkYzcapsde7LqLeOWobCooCJunIYflGTuyfkwdGoHARkr3CeSLlutPpQ08KPBw5FnmSTwQ1Mxm3eEwPIBBfFpn7W-QJPyJpCqgQRXH5iJgnqxrRIASVHraSxb0qSMWkTM7g-Jaw__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA), de F.M. Pérez Montes.
 - La web [Retos de Programación](https://retosdeprogramacion.com/) de MoureDev.
 
 Más adelante mi intención es pasar a los cursos de [Spring](https://www.youtube.com/playlist?list=PLU8oAlHdN5Blq85GIxtKjIXdfHPksV_Hm) y [Spring Boot](https://www.youtube.com/playlist?list=PLU8oAlHdN5BnVCDXq-B2j3-9QXE8LpSxI), también de **Píldoras Informáticas**.
@@ -23,7 +23,7 @@ Más adelante mi intención es pasar a los cursos de [Spring](https://www.youtub
 </details>
 
 <details>
-  <summary>Estructuras básicas</summary>
+  <summary>Estructuras básicas ✔️​ 03/04/2025</summary>
   
 4. [Estructuras principales](https://www.youtube.com/watch?v=w2RMHSNZe-k&list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk&index=5&ab_channel=pildorasinformaticas) ✔️​ 23/03/2025
 5. [Estructuras principales II. Inferencia de tipos.](https://www.youtube.com/watch?v=ZJEHc8oQw_0&list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk&index=6&ab_channel=pildorasinformaticas) ✔️​ 23/03/2025
@@ -723,6 +723,285 @@ Más adelante mi intención es pasar a los cursos de [Spring](https://www.youtub
 13. [Inyección de propiedades personalizadas](https://www.youtube.com/watch?v=Q14qG_o2NF8&list=PLU8oAlHdN5BnVCDXq-B2j3-9QXE8LpSxI&index=13&ab_channel=pildorasinformaticas)
 14. [Propiedades más utilizadas](https://www.youtube.com/watch?v=lcm09svYGcM&list=PLU8oAlHdN5BnVCDXq-B2j3-9QXE8LpSxI&index=14&ab_channel=pildorasinformaticas)
 15. [Concluyendo](https://www.youtube.com/watch?v=A8y2QEXqAvM&list=PLU8oAlHdN5BnVCDXq-B2j3-9QXE8LpSxI&index=15&ab_channel=pildorasinformaticas)
+
+</details>
+</details>
+
+## Ejercicios:
+<details>
+  <summary><b>F.M. Pérez Montes - "Ejercicios de programación en Java: Condicionales, bucles, tablas y funciones"</b></summary>
+
+<details>
+  <summary>Variables y condicionales</summary>
+  
+1. Ejercicio 1 (Variables y condicionales)
+2. Ejercicio 2 (Variables y condicionales)
+3. Ejercicio 3 (Variables y condicionales)
+4. Ejercicio 4 (Variables y condicionales)
+5. Ejercicio 5 (Variables y condicionales)
+6. Ejercicio 6 (Variables y condicionales)
+7. Ejercicio 7 (Variables y condicionales)
+8. Ejercicio 8 (Variables y condicionales)
+9. Ejercicio 9 (Variables y condicionales)
+10. Ejercicio 10 (Variables y condicionales)
+11. Ejercicio 11 (Variables y condicionales)
+12. Ejercicio 12 (Variables y condicionales)
+13. Ejercicio 13 (Variables y condicionales)
+14. Ejercicio 14 (Variables y condicionales)
+15. Ejercicio 15 (Variables y condicionales)
+16. Ejercicio 16 (Variables y condicionales)
+17. Ejercicio 17 (Variables y condicionales)
+18. Ejercicio 18 (Variables y condicionales)
+19. Ejercicio 19 (Variables y condicionales)
+20. Ejercicio 20 (Variables y condicionales)
+21. Ejercicio 21 (Variables y condicionales)
+22. Ejercicio 22 (Variables y condicionales)
+
+</details>
+
+<details>
+  <summary>Condicionales y bucles</summary>
+  
+23. Ejercicio 1 (Condicionales y bucles)
+24. Ejercicio 2 (Condicionales y bucles)
+25. Ejercicio 3 (Condicionales y bucles)
+26. Ejercicio 4 (Condicionales y bucles)
+27. Ejercicio 5 (Condicionales y bucles)
+28. Ejercicio 6 (Condicionales y bucles)
+29. Ejercicio 7 (Condicionales y bucles)
+30. Ejercicio 8 (Condicionales y bucles)
+31. Ejercicio 9 (Condicionales y bucles)
+32. Ejercicio 10 (Condicionales y bucles)
+33. Ejercicio 11 (Condicionales y bucles)
+34. Ejercicio 12 (Condicionales y bucles)
+35. Ejercicio 13 (Condicionales y bucles)
+36. Ejercicio 14 (Condicionales y bucles)
+37. Ejercicio 15 (Condicionales y bucles)
+38. Ejercicio 16 (Condicionales y bucles)
+39. Ejercicio 17 (Condicionales y bucles)
+40. Ejercicio 18 (Condicionales y bucles)
+41. Ejercicio 19 (Condicionales y bucles)
+42. Ejercicio 20 (Condicionales y bucles)
+43. Ejercicio 21 (Condicionales y bucles)
+44. Ejercicio 22 (Condicionales y bucles)
+45. Ejercicio 23 (Condicionales y bucles)
+
+</details>
+
+<details>
+  <summary>Bucles anidados</summary>
+  
+46. Ejercicio 1 (Bucles anidados)
+47. Ejercicio 2 (Bucles anidados)
+48. Ejercicio 3 (Bucles anidados)
+49. Ejercicio 4 (Bucles anidados)
+50. Ejercicio 5 (Bucles anidados)
+51. Ejercicio 6 (Bucles anidados)
+
+</details>
+
+<details>
+  <summary>Tablas</summary>
+  
+52. Ejercicio 1 (Tablas)
+53. Ejercicio 2 (Tablas)
+54. Ejercicio 3 (Tablas)
+55. Ejercicio 4 (Tablas)
+56. Ejercicio 5 (Tablas)
+57. Ejercicio 6 (Tablas)
+58. Ejercicio 7 (Tablas)
+59. Ejercicio 8 (Tablas)
+60. Ejercicio 9 (Tablas)
+61. Ejercicio 10 (Tablas)
+62. Ejercicio 11 (Tablas)
+63. Ejercicio 12 (Tablas)
+64. Ejercicio 13 (Tablas)
+65. Ejercicio 14 (Tablas)
+66. Ejercicio 15 (Tablas)
+67. Ejercicio 16 (Tablas)
+
+</details>
+
+<details>
+  <summary>Tablas n-dimensionales</summary>
+  
+68. Ejercicio 1 (Tablas n-dimensionales)
+69. Ejercicio 2 (Tablas n-dimensionales)
+70. Ejercicio 3 (Tablas n-dimensionales)
+71. Ejercicio 4 (Tablas n-dimensionales)
+72. Ejercicio 5 (Tablas n-dimensionales)
+73. Ejercicio 6 (Tablas n-dimensionales)
+74. Ejercicio 7 (Tablas n-dimensionales)
+75. Ejercicio 8 (Tablas n-dimensionales)
+76. Ejercicio 9 (Tablas n-dimensionales)
+77. Ejercicio 10 (Tablas n-dimensionales)
+78. Ejercicio 11 (Tablas n-dimensionales)
+
+</details>
+
+<details>
+  <summary>Funciones</summary>
+  
+79. Ejercicio 1 (Funciones)
+80. Ejercicio 2 (Funciones)
+81. Ejercicio 3 (Funciones)
+82. Ejercicio 4 (Funciones)
+83. Ejercicio 5 (Funciones)
+84. Ejercicio 6 (Funciones)
+85. Ejercicio 7 (Funciones)
+86. Ejercicio 8 (Funciones)
+87. Ejercicio 9 (Funciones)
+88. Ejercicio 10 (Funciones)
+89. Ejercicio 11 (Funciones)
+90. Ejercicio 12 (Funciones)
+91. Ejercicio 13 (Funciones)
+92. Ejercicio 14 (Funciones)
+93. Ejercicio 15 (Funciones)
+94. Ejercicio 16 (Funciones)
+95. Ejercicio 17 (Funciones)
+96. Ejercicio 18 (Funciones)
+97. Ejercicio 19 (Funciones)
+98. Ejercicio 20 (Funciones)
+99. Ejercicio 21 (Funciones)
+100. Ejercicio 22 (Funciones)
+101. Ejercicio 23 (Funciones)
+102. Ejercicio 24 (Funciones)
+103. Ejercicio 25 (Funciones)
+104. Ejercicio 26 (Funciones)
+105. Ejercicio 27 (Funciones)
+106. Ejercicio 28 (Funciones)
+107. Ejercicio 29 (Funciones)
+108. Ejercicio 30 (Funciones)
+109. Ejercicio 31 (Funciones)
+110. Ejercicio 32 (Funciones)
+111. Ejercicio 33 (Funciones)
+112. Ejercicio 34 (Funciones)
+113. Ejercicio 35 (Funciones)
+114. Ejercicio 36 (Funciones)
+115. Ejercicio 37 (Funciones)
+
+</details>
+</details>
+
+<details>
+  <summary><b>MoureDev - "Retos de Programación"</b></summary>
+
+<details>
+  <summary>Retos fáciles</summary>
+  
+1. Ejercicio 1
+2. Ejercicio 5
+3. Ejercicio 9
+4. Ejercicio 12
+5. Ejercicio 14
+6. Ejercicio 15
+7. Ejercicio 17
+8. Ejercicio 20
+9. Ejercicio 23
+10. Ejercicio 25
+11. Ejercicio 27
+12. Ejercicio 28
+13. Ejercicio 30
+14. Ejercicio 31
+15. Ejercicio 32
+16. Ejercicio 33
+17. Ejercicio 42
+18. Ejercicio 43
+19. Ejercicio 45
+20. Ejercicio 48
+21. Ejercicio 49
+22. Ejercicio 50
+23. Ejercicio 51
+24. Ejercicio 52
+25. Ejercicio 53
+26. Ejercicio 54
+27. Ejercicio 58
+28. Ejercicio 62
+29. Ejercicio 64
+30. Ejercicio 65
+31. Ejercicio 66
+32. Ejercicio 67
+33. Ejercicio 68
+34. Ejercicio 71
+35. Ejercicio 77
+36. Ejercicio 82
+37. Ejercicio 84
+38. Ejercicio 88
+39. Ejercicio 93
+40. Ejercicio 96
+41. Ejercicio 98
+42. Ejercicio 100
+
+</details>
+
+<details>
+  <summary>Retos intermedios</summary>
+  
+43. Ejercicio 2
+44. Ejercicio 4
+45. Ejercicio 8
+46. Ejercicio 10
+47. Ejercicio 11
+48. Ejercicio 13
+49. Ejercicio 18
+50. Ejercicio 21
+51. Ejercicio 22
+52. Ejercicio 24
+53. Ejercicio 26
+54. Ejercicio 29
+55. Ejercicio 34
+56. Ejercicio 35
+57. Ejercicio 36
+58. Ejercicio 37
+59. Ejercicio 38
+60. Ejercicio 39
+61. Ejercicio 40
+62. Ejercicio 41
+63. Ejercicio 44
+64. Ejercicio 46
+65. Ejercicio 47
+66. Ejercicio 55
+67. Ejercicio 56
+68. Ejercicio 57
+69. Ejercicio 59
+70. Ejercicio 60
+71. Ejercicio 61
+72. Ejercicio 63
+73. Ejercicio 69
+74. Ejercicio 72
+75. Ejercicio 73
+76. Ejercicio 74
+77. Ejercicio 75
+78. Ejercicio 76
+79. Ejercicio 78
+80. Ejercicio 79
+81. Ejercicio 80
+82. Ejercicio 81
+83. Ejercicio 83
+84. Ejercicio 85
+85. Ejercicio 86
+86. Ejercicio 87
+87. Ejercicio 89
+88. Ejercicio 90
+89. Ejercicio 91
+90. Ejercicio 92
+91. Ejercicio 94
+92. Ejercicio 95
+93. Ejercicio 97
+94. Ejercicio 99
+
+</details>
+
+<details>
+  <summary>Retos difíciles</summary>
+  
+95. Ejercicio 3
+96. Ejercicio 6
+97. Ejercicio 7
+98. Ejercicio 16
+99. Ejercicio 19
+100. Ejercicio 70
+101. Ejercicio 101
 
 </details>
 </details>
