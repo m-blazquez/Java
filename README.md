@@ -4,7 +4,7 @@ He creado este repositorio para aprender Java y para documentar todo el proceso.
 
 Como primera aproximación al lenguaje estoy siguiendo el [curso de Java desde 0](https://www.youtube.com/playlist?list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk) de **Píldoras Informáticas** en youtube, complementándolo con ejercicios de diversas fuentes:
 
-- El libro [Ejercicios de programación en Java: Condicionales, bucles, tablas y funciones](https://d1wqtxts1xzle7.cloudfront.net/47674895/tmp_2074-java1469326973-libre.pdf?1469991769=&response-content-disposition=inline%3B+filename%3DEjercicios_de_Programacion_en_Java.pdf&Expires=1743718380&Signature=LJgwfOCR0sNlSc7rGZoyg3EwPnBFHeFX8pBPjKuZt0vJGcvVrkYxcwTccNjamFNR8pQ0SZ4dV8RYtqUcair8OQtejsDzvf3eQYyhDCL8us2i1kf~XoCVQS3RGL8vUn4SQZZgnmSGrqapKgEYPfKq1wQAH3wxmEgfuuasZH4FonKwRExfj3Vfb79gtvwTaIzoy4DQeLSS13gNkl1zkYzcapsde7LqLeOWobCooCJunIYflGTuyfkwdGoHARkr3CeSLlutPpQ08KPBw5FnmSTwQ1Mxm3eEwPIBBfFpn7W-QJPyJpCqgQRXH5iJgnqxrRIASVHraSxb0qSMWkTM7g-Jaw__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA), de F.M. Pérez Montes.
+- El libro [Ejercicios de programación en Java: Condicionales, bucles, tablas y funciones](https://elhacker.info/manuales/Lenguajes%20de%20Programacion/Java/Ejercicios-de-Programacion-en-Java.pdf), de F.M. Pérez Montes.
 - La web [Retos de Programación](https://retosdeprogramacion.com/) de MoureDev.
 
 Más adelante mi intención es pasar a los cursos de [Spring](https://www.youtube.com/playlist?list=PLU8oAlHdN5Blq85GIxtKjIXdfHPksV_Hm) y [Spring Boot](https://www.youtube.com/playlist?list=PLU8oAlHdN5BnVCDXq-B2j3-9QXE8LpSxI), también de **Píldoras Informáticas**.
@@ -734,7 +734,7 @@ Más adelante mi intención es pasar a los cursos de [Spring](https://www.youtub
 <details>
   <summary>Variables y condicionales</summary>
   
-1. Ejercicio 1 (Variables y condicionales)
+1. Ejercicio 1 (Variables y condicionales) ✔️​ 05/04/2025
 2. Ejercicio 2 (Variables y condicionales)
 3. Ejercicio 3 (Variables y condicionales)
 4. Ejercicio 4 (Variables y condicionales)
