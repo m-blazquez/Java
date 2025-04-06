@@ -739,7 +739,7 @@ Más adelante mi intención es pasar a los cursos de [Spring](https://www.youtub
 3. Ejercicio 3 (Variables y condicionales) ✔️​ 05/04/2025
 4. Ejercicio 4 (Variables y condicionales) ✔️​ 05/04/2025
 5. Ejercicio 5 (Variables y condicionales) ✔️​ 06/04/2025
-6. Ejercicio 6 (Variables y condicionales)
+6. Ejercicio 6 (Variables y condicionales) ✔️​ 06/04/2025
 7. Ejercicio 7 (Variables y condicionales)
 8. Ejercicio 8 (Variables y condicionales)
 9. Ejercicio 9 (Variables y condicionales)
