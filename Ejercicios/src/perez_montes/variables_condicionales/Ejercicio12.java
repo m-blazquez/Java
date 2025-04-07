@@ -3,18 +3,17 @@ package perez_montes.variables_condicionales;
 import java.util.Locale;
 import java.util.Scanner;
 
-public class Ejercicio11 {
+public class Ejercicio12 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
 		/*
-		 * ENUNCIADO: Pedir un número entre 0 y 9.999 y decir cuantas cifras tiene.
+		 * ENUNCIADO: Pedir un número entre 0 y 9.999 y mostrarlo con las cifras al revés.
 		 */
 
 		// Declarar e inicializar variables. En el enunciado los números no tienen posiciones decimales, por lo que entenderé que son ints (y además así variamos un poco, que en los demás ejercicios siempre han sido doubles)
 		int numero = 0;
-		int cifras = 0;
 		
 		// Crear un objeto de la clase scanner para ingresar el radio
 		Scanner entrada = new Scanner(System.in);
@@ -23,17 +22,22 @@ public class Ejercicio11 {
 		// Solicitar al usuario que introduzca los dos números:
 		System.out.println("Introduce un número entre 0 y 9.999:");
 		numero = entrada.nextInt();
-		
+
 		// Convertir el número a String con el método valueOf de la clase String. Originalmente intenté hacer un casting, pero no está permitido
 		String numeroS = String.valueOf(numero);
 		
-		// Obtener la longitud del String. Como los datos de partida eran ints, este valor debe ser el mismo que el número de cifras
-		cifras = numeroS.length();
+		// Declarar e inicializar una nueva variable String que almacenará el número al revés. Se irá rellenando con un bucle for que va "al revés"
+		String numeroReves = "";
+		
+		for (int i = (numeroS.length() - 1); i >= 0; i--) {
+			
+			numeroReves = numeroReves + numeroS.charAt(i);
+			
+		}
 		
 		// Devolver el resultado
-		System.out.println("El número " + numero + " tiene " + cifras + " cifras.");
+		System.out.println("El número " + numeroS + " al revés es " + numeroReves);
 		
-
 	}
 
 }
