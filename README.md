@@ -41,7 +41,7 @@ Más adelante mi intención es pasar a los cursos de [Spring](https://www.youtub
 17. [Condicionales II. Ternario y Switch](https://www.youtube.com/watch?v=h7fR7130xeI&list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk&index=18&ab_channel=pildorasinformaticas) ✔️​ 01/04/2025
 18. [Bucles I. Bucle while](https://www.youtube.com/watch?v=OiUVhnuk25U&list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk&index=20&ab_channel=pildorasinformaticas) ✔️​ 02/04/2025
 19. [Bucles II. Ejercicio recopilatorio](https://www.youtube.com/watch?v=P6i54QAODIQ&ab_channel=pildorasinformaticas) ✔️​ 02/04/2025
-20. [Bucles III (versión original)](https://www.youtube.com/watch?v=gzJn5MTSL5U&list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk&index=21&ab_channel=pildorasinformaticas) ✔️​ 02/04/2025
+20. [Bucles III. While vs do-While](https://www.youtube.com/watch?v=4UltwVkrAYk&ab_channel=pildorasinformaticas) ✔️​ 02/04/2025
 21. [Bucles IV (versión original)](https://www.youtube.com/watch?v=EUCmFmtX26I&list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk&index=22&ab_channel=pildorasinformaticas) ✔️​ 02/04/2025
 22. [Bucles V (versión original)](https://www.youtube.com/watch?v=V1Wgi_FsehM&list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk&index=23&ab_channel=pildorasinformaticas) ✔️​ 02/04/2025
 23. [Arrays I (versión original)](https://www.youtube.com/watch?v=UID_EKKfpcE&list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk&index=24&ab_channel=pildorasinformaticas) ✔️​ 03/04/2025
@@ -749,7 +749,7 @@ Más adelante mi intención es pasar a los cursos de [Spring](https://www.youtub
 13. Ejercicio 13 (Variables y condicionales) ✔️​ 07/04/2025
 14. Ejercicio 14 (Variables y condicionales) ✔️​ 07/04/2025
 15. Ejercicio 15 (Variables y condicionales) ✔️​ 07/04/2025
-16. Ejercicio 16 (Variables y condicionales)
+16. Ejercicio 16 (Variables y condicionales) ✔️​ 08/04/2025
 17. Ejercicio 17 (Variables y condicionales)
 18. Ejercicio 18 (Variables y condicionales)
 19. Ejercicio 19 (Variables y condicionales)
