@@ -732,7 +732,7 @@ Más adelante mi intención es pasar a los cursos de [Spring](https://www.youtub
   <summary><b>F.M. Pérez Montes - "Ejercicios de programación en Java: Condicionales, bucles, tablas y funciones"</b></summary>
 
 <details>
-  <summary>Variables y condicionales</summary>
+  <summary>Variables y condicionales ✔️​ 09/04/2025​</summary>
   
 1. Ejercicio 1 (Variables y condicionales) ✔️​ 05/04/2025
 2. Ejercicio 2 (Variables y condicionales) ✔️​ 05/04/2025
@@ -755,7 +755,7 @@ Más adelante mi intención es pasar a los cursos de [Spring](https://www.youtub
 19. Ejercicio 19 (Variables y condicionales) ✔️​ 09/04/2025
 20. Ejercicio 20 (Variables y condicionales) ✔️​ 09/04/2025
 21. Ejercicio 21 (Variables y condicionales) ✔️​ 09/04/2025
-22. Ejercicio 22 (Variables y condicionales)
+22. Ejercicio 22 (Variables y condicionales) ✔️​ 09/04/2025
 
 </details>
 
