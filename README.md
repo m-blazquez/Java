@@ -11,7 +11,7 @@ Más adelante mi intención es pasar a los cursos de [Spring](https://www.youtub
 
 ## Cursos:
 <details>
-  <summary><b>CURSO DE JAVA DESDE 0 (Píldoras Informáticas)</b></summary>
+  <summary><b>CURSO DE JAVA DESDE 0</b></summary>
 
 <details>
   <summary>Introducción ✔️ 23/03/2025</summary>
@@ -485,7 +485,7 @@ Más adelante mi intención es pasar a los cursos de [Spring](https://www.youtub
 
 
 <details>
-  <summary><b>CURSO SPRING (Píldoras Informáticas)</b></summary>
+  <summary><b>CURSO SPRING</b></summary>
 
 <details>
   <summary>Introducción e instalación</summary>
@@ -691,7 +691,7 @@ Más adelante mi intención es pasar a los cursos de [Spring](https://www.youtub
 </details>
 
 <details>
-  <summary><b>CURSO SPRING BOOT (Píldoras Informáticas)</b></summary>
+  <summary><b>CURSO SPRING BOOT</b></summary>
 
 <details>
   <summary>Introducción</summary>
@@ -750,7 +750,7 @@ Más adelante mi intención es pasar a los cursos de [Spring](https://www.youtub
 14. Ejercicio 14 (Variables y condicionales) ✔️​ 07/04/2025
 15. Ejercicio 15 (Variables y condicionales) ✔️​ 07/04/2025
 16. Ejercicio 16 (Variables y condicionales) ✔️​ 08/04/2025
-17. Ejercicio 17 (Variables y condicionales)
+17. Ejercicio 17 (Variables y condicionales) ✔️​ 09/04/2025
 18. Ejercicio 18 (Variables y condicionales)
 19. Ejercicio 19 (Variables y condicionales)
 20. Ejercicio 20 (Variables y condicionales)
