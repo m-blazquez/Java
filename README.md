@@ -42,8 +42,8 @@ Más adelante mi intención es pasar a los cursos de [Spring](https://www.youtub
 18. [Bucles I. Bucle while](https://www.youtube.com/watch?v=OiUVhnuk25U&list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk&index=20&ab_channel=pildorasinformaticas) ✔️​ 02/04/2025
 19. [Bucles II. Ejercicio recopilatorio](https://www.youtube.com/watch?v=P6i54QAODIQ&ab_channel=pildorasinformaticas) ✔️​ 02/04/2025
 20. [Bucles III. While vs do-While](https://www.youtube.com/watch?v=4UltwVkrAYk&ab_channel=pildorasinformaticas) ✔️​ 02/04/2025
-21. [Bucles IV (versión original)](https://www.youtube.com/watch?v=EUCmFmtX26I&list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk&index=22&ab_channel=pildorasinformaticas) ✔️​ 02/04/2025
-22. [Bucles V (versión original)](https://www.youtube.com/watch?v=V1Wgi_FsehM&list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk&index=23&ab_channel=pildorasinformaticas) ✔️​ 02/04/2025
+21. [Bucles IV. Bucle for](https://www.youtube.com/watch?v=r6QP3-8qwNU&ab_channel=pildorasinformaticas) ✔️​ 02/04/2025
+22. [Bucles V. Bucle for II](https://www.youtube.com/watch?v=gPEIQNuvDFI&ab_channel=pildorasinformaticas) ✔️​ 02/04/2025
 23. [Arrays I (versión original)](https://www.youtube.com/watch?v=UID_EKKfpcE&list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk&index=24&ab_channel=pildorasinformaticas) ✔️​ 03/04/2025
 24. [Arrays II (versión original)](https://www.youtube.com/watch?v=NwztwM_xGgU&list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk&index=25&ab_channel=pildorasinformaticas) ✔️​ 03/04/2025
 25. [Arrays III. Arrays bidimensionales (versión original)](https://www.youtube.com/watch?v=_tUncS0AsNE&list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk&index=26&ab_channel=pildorasinformaticas) ✔️​ 03/04/2025
@@ -762,7 +762,7 @@ Más adelante mi intención es pasar a los cursos de [Spring](https://www.youtub
 <details>
   <summary>Condicionales y bucles</summary>
   
-23. Ejercicio 1 (Condicionales y bucles)
+23. Ejercicio 1 (Condicionales y bucles) ✔️​ 23/04/2025
 24. Ejercicio 2 (Condicionales y bucles)
 25. Ejercicio 3 (Condicionales y bucles)
 26. Ejercicio 4 (Condicionales y bucles)
