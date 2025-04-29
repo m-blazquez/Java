@@ -792,7 +792,7 @@ Más adelante mi intención es pasar a los cursos de [Spring](https://www.youtub
   <summary>Bucles anidados</summary>
   
 46. Ejercicio 1 (Bucles anidados) [Es interpretar un pseudocódigo, no hay archivos] ✔️​ 29/04/2025
-47. Ejercicio 2 (Bucles anidados)
+47. Ejercicio 2 (Bucles anidados) [Es interpretar un pseudocódigo, no hay archivos] ✔️​ 29/04/2025
 48. Ejercicio 3 (Bucles anidados)
 49. Ejercicio 4 (Bucles anidados)
 50. Ejercicio 5 (Bucles anidados)
