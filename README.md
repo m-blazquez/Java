@@ -45,7 +45,7 @@ Más adelante mi intención es pasar a los cursos de [Spring](https://www.youtub
 21. [Bucles IV. Bucle for](https://www.youtube.com/watch?v=r6QP3-8qwNU&ab_channel=pildorasinformaticas) ✔️​ 02/04/2025
 22. [Bucles V. Bucle for II](https://www.youtube.com/watch?v=gPEIQNuvDFI&ab_channel=pildorasinformaticas) ✔️​ 02/04/2025
 23. [Arrays I. Novedades asociadas al uso de Arrays](https://www.youtube.com/watch?v=BQ1P0mUZnPI&ab_channel=pildorasinformaticas) ✔️​ 03/04/2025
-24. [Arrays II (versión original)](https://www.youtube.com/watch?v=NwztwM_xGgU&list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk&index=25&ab_channel=pildorasinformaticas) ✔️​ 03/04/2025
+24. [Arrays II. Bucle for-each](https://www.youtube.com/watch?v=6AAmjxYkfTE&ab_channel=pildorasinformaticas) ✔️​ 03/04/2025
 25. [Arrays III. Arrays bidimensionales (versión original)](https://www.youtube.com/watch?v=_tUncS0AsNE&list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk&index=26&ab_channel=pildorasinformaticas) ✔️​ 03/04/2025
 26. [Arrays IV. Arrays bidimensionales II (versión original)](https://www.youtube.com/watch?v=xEHkuRApCno&list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk&index=27&ab_channel=pildorasinformaticas) ✔️​ 03/04/2025
 
@@ -773,7 +773,7 @@ Más adelante mi intención es pasar a los cursos de [Spring](https://www.youtub
 31. Ejercicio 9 (Condicionales y bucles) ✔️​ 29/04/2025
 32. Ejercicio 10 (Condicionales y bucles) ✔️​ 29/04/2025
 33. Ejercicio 11 (Condicionales y bucles) ✔️​ 29/04/2025
-34. Ejercicio 12 (Condicionales y bucles)
+34. Ejercicio 12 (Condicionales y bucles) ✔️​ 29/04/2025
 35. Ejercicio 13 (Condicionales y bucles)
 36. Ejercicio 14 (Condicionales y bucles)
 37. Ejercicio 15 (Condicionales y bucles)
