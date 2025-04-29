@@ -775,7 +775,7 @@ Más adelante mi intención es pasar a los cursos de [Spring](https://www.youtub
 33. Ejercicio 11 (Condicionales y bucles) ✔️​ 29/04/2025
 34. Ejercicio 12 (Condicionales y bucles) ✔️​ 29/04/2025
 35. Ejercicio 13 (Condicionales y bucles) ✔️​ 29/04/2025
-36. Ejercicio 14 (Condicionales y bucles)
+36. Ejercicio 14 (Condicionales y bucles) ✔️​ 29/04/2025
 37. Ejercicio 15 (Condicionales y bucles)
 38. Ejercicio 16 (Condicionales y bucles)
 39. Ejercicio 17 (Condicionales y bucles)
