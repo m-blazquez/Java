@@ -783,7 +783,7 @@ Más adelante mi intención es pasar a los cursos de [Spring](https://www.youtub
 41. Ejercicio 19 (Condicionales y bucles) ✔️​ 29/04/2025
 42. Ejercicio 20 (Condicionales y bucles) ✔️​ 29/04/2025
 43. Ejercicio 21 (Condicionales y bucles) ✔️​ 29/04/2025
-44. Ejercicio 22 (Condicionales y bucles)
+44. Ejercicio 22 (Condicionales y bucles) ✔️​ 29/04/2025
 45. Ejercicio 23 (Condicionales y bucles)
 
 </details>
