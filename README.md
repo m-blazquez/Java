@@ -803,7 +803,7 @@ Más adelante mi intención es pasar a los cursos de [Spring](https://www.youtub
 <details>
   <summary>Tablas</summary>
   
-52. Ejercicio 1 (Tablas)
+52. Ejercicio 1 (Tablas) ✔️​ 30/04/2025
 53. Ejercicio 2 (Tablas)
 54. Ejercicio 3 (Tablas)
 55. Ejercicio 4 (Tablas)
